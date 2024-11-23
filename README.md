@@ -23,4 +23,4 @@
     Based on risk levels, suggest:
     - No action (SAFE).
     - Monitor (WARNING).
-    - Plan maneuver (ALERT).
+    - Take action (ALERT).
