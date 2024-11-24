@@ -14,13 +14,10 @@
         - Time of Closest Approach <= 7 days.
         - Miss Distance < 10 km or Probability of Collision > 1E-6.
 
-2. Assess Secondary Object :
-    - Identify details about the secondary object from the CDMs (if available).
-    - If missing, infer based on context provided in the cheat sheet (eg, object type or behavior).
+2. Assess :
+    - Identify details about the secondary object from the CDMs.
+    - Who is the secondary object involved in the conjunction? 
+    - What is the coordination plan?
+    - How is the risk evolving through time until today?
+    - Which CDM source seems to be the most reliable?
 
-3. Formulate Recommendations :
-
-    Based on risk levels, suggest:
-    - No action (SAFE).
-    - Monitor (WARNING).
-    - Take action (ALERT).
