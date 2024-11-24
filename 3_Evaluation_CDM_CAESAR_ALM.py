@@ -55,7 +55,7 @@ parsed_data = [parse_cdm_file_all(file_path) for file_path in file_paths]
 df = pd.DataFrame(parsed_data)
 
 # Save the DataFrame as a CSV file for review or further processing
-output_file = "caesar_alm_extracted_data.csv"
+output_file = "cdm_caesar_trj_results/caesar_alm_extracted_data.csv"
 df.to_csv(output_file, index=False)
 print(f"Data successfully saved to {output_file}")
 
@@ -65,7 +65,7 @@ Analyzing the data
 
 """
 # Load the uploaded CSV file for analysis
-file_path = "caesar_alm_extracted_data.csv"
+file_path = "cdm_caesar_trj_results/caesar_alm_extracted_data.csv"
 df = pd.read_csv(file_path)
 
 # Data Cleaning: Convert numeric fields

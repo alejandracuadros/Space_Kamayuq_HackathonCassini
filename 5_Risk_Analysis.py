@@ -3,9 +3,9 @@ from datetime import datetime
 from pprint import pprint
 
 # Load the provided CSV files for the most reliable entries
-cspoc_file = "most_reliable_entry_cspoc.csv"
-trj_file = "most_reliable_entry_caesar_trj.csv"
-alm_file = "most_reliable_entry_caesar_alm.csv"
+cspoc_file = "cdm_cspoc_results/most_reliable_entry_cspoc.csv"
+trj_file = "cdm_caesar_trj_results/most_reliable_entry_caesar_trj.csv"
+alm_file = "cdm_caesar_alm_results/most_reliable_entry_caesar_alm.csv"
 
 # Read the CSV files into pandas DataFrames
 cspoc_data = pd.read_csv(cspoc_file)
