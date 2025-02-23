@@ -22,7 +22,7 @@ We integrate CDM data with Copernicus Earth Observation data and Galileo positio
 
 Together, these technologies optimize risk assessments, refine maneuver strategies, and minimize operational disruptions caused by space debris.
 
----
+
 
 ## 🚀 EU Space for Defence and Security
 
