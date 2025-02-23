@@ -6,13 +6,11 @@
 
 Through the integration of European Space technologies, Space Kamayuq not only identifies collision risks but also refines trajectory predictions and optimizes maneuver strategies, ensuring uninterrupted satellite operations.
 
----
 
 ## 💡 Idea
 
 Space Kamayuq addresses the escalating risk of satellite collisions with space debris. Leveraging Conjunction Data Messages (CDMs), our system analyzes collision risks, predicts potential impacts, and provides operators with actionable insights for maneuver planning. This empowers satellite operators to make data-driven decisions, ensuring satellite safety, mission continuity, and orbital sustainability.
 
----
 
 ## 🛰️ EU Space Technologies
 
@@ -30,7 +28,6 @@ Together, these technologies optimize risk assessments, refine maneuver strategi
 
 Space Kamayuq directly addresses the **Orbital Security – Navigating the Collision Frontier** challenge by improving Space Situational Awareness (SSA). Our solution ensures uninterrupted satellite operations, protects critical orbital infrastructure, and strengthens the EU’s Defence and Security ecosystem by mitigating risks from space debris and traffic congestion.
 
----
 
 ## 👽 Team
 
@@ -42,8 +39,6 @@ Space Kamayuq directly addresses the **Orbital Security – Navigating the Colli
 
 - **Altynjemal Taganova**: Computer Science Bachelor student at BME with strong skills in software development and technical implementation, ensuring a seamless and functional platform.  
   Email: [taganovaaltynjemal@gmail.com](mailto:taganovaaltynjemal@gmail.com)
-
----
 
 ## 🔍 Features
 
@@ -59,7 +54,6 @@ Space Kamayuq directly addresses the **Orbital Security – Navigating the Colli
 4. **Visualization**:
    - Generates visual reports for satellite operators to make informed decisions.
 
----
 
 ## 🧑‍💻 Code Features
 
@@ -86,7 +80,6 @@ Classifies risks using thresholds:
   - Risk levels for each entry.
   - Comprehensive analysis.
 
----
 
 ## 📂 File Structure
 
